@@ -1,0 +1,14 @@
+{
+  "name": "equal_unequal",
+  "repo": "aortmannm/equal_unequal",
+  "description": "It gives back true for a equal number",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}
