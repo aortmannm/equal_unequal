@@ -1,4 +1,4 @@
-module.exports = function(number) {
+var test = function(number) {
   "use strict";
   if(number % 2 === 0){
     return true;
@@ -6,3 +6,5 @@ module.exports = function(number) {
     return false;
   }
 };
+
+console.log(test(6));
